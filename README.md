@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rlarudgkswkd&show_icons=true)
+
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyeong-han-kim-a1932ab4/)](https://www.linkedin.com/in/kyeong-han-kim-a1932ab4/)
