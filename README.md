@@ -1,4 +1,4 @@
-### Hi there 👋
+### 세상에 선한 영향력을 끼치고 싶은 개발자 👋
 
 <!--
 **rlarudgkswkd/rlarudgkswkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
