@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarudgkswkd)](https://solved.ac/rlarudgkswkd/)
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b258d3a6-1995-4588-9664-0b19611600ea" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
