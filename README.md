@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarudgkswkd)](https://solved.ac/rlarudgkswkd/)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b258d3a6-1995-4588-9664-0b19611600ea" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![cka-certified-kubernetes-administrator](https://github.com/rlarudgkswkd/rlarudgkswkd/assets/48428850/0e3b6b5f-4d3c-4110-8419-7dca82d1183d)
