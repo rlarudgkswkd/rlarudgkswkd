@@ -1,0 +1,24 @@
+{
+  "name": "rlarudgkswkd",
+  "version": "1.0.0",
+  "description": "<!-- **rlarudgkswkd/rlarudgkswkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "blogUpdate.js",
+  "type": "module",
+  "scripts": {
+    "start": "node blogUpdate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlarudgkswkd/rlarudgkswkd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlarudgkswkd/rlarudgkswkd/issues"
+  },
+  "homepage": "https://github.com/rlarudgkswkd/rlarudgkswkd#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
