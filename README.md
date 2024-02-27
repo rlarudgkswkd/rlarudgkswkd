@@ -13,4 +13,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://honeybuzz-bee.tistory.com/16>멀티 스레드 @Async 사용기, CompletableFuture</a></br><a href=https://honeybuzz-bee.tistory.com/15>JDK21의 신기능 Virtual Thread 알아보기(카카오 테크 밋업)</a></br><a href=https://honeybuzz-bee.tistory.com/14>[객체 리스트 정렬] 내림 차순으로 정렬하기</a></br><a href=https://honeybuzz-bee.tistory.com/13>[JAVA 개념공부]  List와 ArrayList의 차이</a></br><a href=https://honeybuzz-bee.tistory.com/12>[JAVA공부] JAVA 클래스명과 파일명은 왜 같아야하는지?</a></br>
+<a href=https://honeybuzz-bee.tistory.com/17>Spring 에서 배치 프로그램 사용해보기</a></br><a href=https://honeybuzz-bee.tistory.com/16>멀티 스레드 @Async 사용기, CompletableFuture</a></br><a href=https://honeybuzz-bee.tistory.com/15>JDK21의 신기능 Virtual Thread 알아보기(카카오 테크 밋업)</a></br><a href=https://honeybuzz-bee.tistory.com/14>[객체 리스트 정렬] 내림 차순으로 정렬하기</a></br><a href=https://honeybuzz-bee.tistory.com/13>[JAVA 개념공부]  List와 ArrayList의 차이</a></br>
