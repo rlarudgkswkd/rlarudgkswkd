@@ -22,8 +22,13 @@ jobs:
         run: npm ci
       - name: Update README
         run: npm start
+      - name: Create date.txt
+        run: |
+          echo $(date) > date.txt
+          git add date.txt
       - name: Commit README
         run: |
+          date > 
           git add .
           git config --local user.email "rlarudgkswkd@gmail.com"
           git config --local user.name "rlarudgkswkd"
