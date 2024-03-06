@@ -28,7 +28,6 @@ jobs:
           git add date.txt
       - name: Commit README
         run: |
-          date > 
           git add .
           git config --local user.email "rlarudgkswkd@gmail.com"
           git config --local user.name "rlarudgkswkd"
